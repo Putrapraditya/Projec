@@ -1,0 +1,74 @@
+h1,img{
+    text-align: center;
+margin: auto;
+}
+.depan{
+    background: red;
+    width: 100%;
+    height: 435px;
+    margin-top: 15px;
+    display: flex;
+}
+.kiri{
+    background: #71C9CE;
+    width: 20%;
+    height: 435px;
+}
+.kanan{
+    background: orange;
+    width: 80%;
+    height: 435px;
+}
+.footer{
+    background: green;
+    width: 100%;
+    height: 30px;
+}
+#submit-btn {
+background: gray;
+cursor: pointer;
+color: black;
+font-family: "Raleway SemiBold", sans-serif;
+height: 2em;
+margin: 0 auto;
+margin-left: 3em;
+transition: 0.25s;
+width: 15em;
+margin-top: 4px;
+text-align: center;
+}
+.kiri:hover{
+    overflow: hidden;
+}
+.input{
+margin-top: 20px;
+}
+.form{
+    margin-left: 10px;
+}
+
+.input{
+    margin-top: 20px;
+    }
+    #fname{
+    margin-left: 25px;
+    }
+    #notlp{
+    margin-left: 10px;
+    width: 360px;
+    }
+    #radio{
+    margin-left: 13px;
+    }
+    #cars{
+    margin-left: 14px;
+    width: 350px;
+    }
+    #check{
+    margin-left: 26px;
+    }
+    #alamat{
+    margin-left: 13px;
+    width: 360px;
+    height: 120px;
+    }
